@@ -1,0 +1,20 @@
+Comment lancer le projet :
+
+Ouvrez un terminal.
+Déplacez-vous dans le dossier du projet (nommé Raytracer).
+Exécutez les commandes suivantes dans l'ordre pour nettoyer, compiler et lancer l'application :
+make clean
+make
+./main
+
+
+
+
+How to run the project :
+
+Open a terminal.
+Navigate to the project folder (named Raytracer).
+Run the following commands in order to clean, compile, and launch the application:
+make clean
+make
+./main
